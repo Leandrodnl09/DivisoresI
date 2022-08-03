@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\bin\Debug\net6.0\DivisoresI.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\bin\Debug\net6.0\DivisoresI.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\bin\Debug\net6.0\DivisoresI.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\bin\Debug\net6.0\DivisoresI.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\bin\Debug\net6.0\DivisoresI.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\refint\DivisoresI.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\DivisoresI.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\DivisoresI\obj\Debug\net6.0\ref\DivisoresI.dll
